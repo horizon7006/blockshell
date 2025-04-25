@@ -1,5 +1,8 @@
-# BlockShell
+<p align="center">
+  <img src="blockshell/blockshell-removebg-preview.png" width="250"/>
+</p>
 
+# BlockShell
 A drag-and-drop, Scratch-style CLI builder. Build terminal commands like LEGO blocks.
 
 ## Features
