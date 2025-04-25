@@ -31,7 +31,7 @@ cd blockshell
 npm install
 
 ### 3. Start the app
-npm run dev
+npm start
 
 ## Tech Stack
 - Electron + React + Vite
