@@ -12,7 +12,7 @@ function createWindow () {
     }
   });
 
-  win.loadURL('http://localhost:3000');
+  mainWindow.loadURL('http://localhost:5173');
 }
 
 app.whenReady().then(createWindow);
