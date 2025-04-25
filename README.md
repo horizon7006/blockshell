@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blockshell/blockshell-removebg-preview.png" width="250"/>
+  <img src="blockshell-removebg-preview.png" width="250"/>
 </p>
 
 # BlockShell
