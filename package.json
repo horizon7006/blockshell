@@ -1,0 +1,17 @@
+{
+  "name": "blockshell",
+  "version": "0.1.0",
+  "main": "public/electron.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "concurrently \"npm run react-start\" \"npm run electron-start\"",
+    "react-start": "react-scripts start",
+    "electron-start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^29.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "xterm": "^5.0.0"
+  }
+}
